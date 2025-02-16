@@ -1,6 +1,6 @@
 import React from "react";
-import Sidebar from "./sidebar";
-import SplineBackground from "./splinebackground";
+import Sidebar from "../sidebar/sidebar";
+import SplineBackground from "../spline-bg/splinebackground";
 
 const Layout = ({ children }) => {
   return (
